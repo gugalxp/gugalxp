@@ -1,4 +1,4 @@
- Olá! Eu sou o Gustavo Arruda 🖐️
+ Olá! Eu sou o Gustavo Arruda  🖐️
 ___
 Atualmente cursando Ciência da Computação. E estagiário na Speedy Officer.
 ___
@@ -42,4 +42,4 @@ ___
 </div><br/>
 
 Apaixonado por tecnologia, por programação e por desafios!
-___
+____
