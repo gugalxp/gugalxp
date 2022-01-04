@@ -1,7 +1,10 @@
- Olá! Eu sou o Gustavo Arruda 🖐️
+ # <strong> Olá! Eu sou o Gustavo Arruda 🖐️
+ </strong>
+
+### <strong style="color:yellow;">Atualmente cursando Ciência da Computação.  Estagiário na Speedy Officer!</strong>
 ___
-Atualmente cursando Ciência da Computação. E estagiário na Speedy Officer.
-___
+</br>
+
 [![Blog](https://img.shields.io/website?label=gustavoarrudaprogramador.com&style=for-the-badge&url=https://sujeitoprogramador.com/)](https://gustavoarrudaprogramador.com)
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/sujeitoprogramador)
