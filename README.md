@@ -1,14 +1,16 @@
- Olá! Eu sou o Gustavo Arruda 🖐️
-
+ Olá! Eu sou o Gustavo Arruda 🖐️ Olá! Eu sou o Gustavo Arruda 🖐️
+___
 [![Blog](https://img.shields.io/website?label=gustavoarrudaprogramador.com&style=for-the-badge&url=https://sujeitoprogramador.com/)](https://gustavoarrudaprogramador.com)
 
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/soueugusta_/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/sujeitoprogramador)
 
 
-![Arruda GitHub stats](https://github-readme-stats.vercel.app/api?username=gugalxp&show_icons=true&theme=dracula&count_private=true)
+![Arruda GitHub stats](https://github-readme-stats.vercel.app/api?username=gugalxp&show_icons=true&theme=radical)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gugalxp&layout=compact)]()
 
 ## Tecnologias que eu uso nos meus dias
-
+___
 
 <div style="display: inline_block">
   <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
@@ -20,3 +22,4 @@
 </div><br/>
 
 Apaixonado por tecnologia, por programação e por desafios!
+___
