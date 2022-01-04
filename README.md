@@ -46,5 +46,6 @@ ___
 </div><br/>
 
 ___
-Apaixonado por tecnologia, por programação e por desafios!
+
+### Apaixonado por tecnologia, por programação e por desafios!
 
