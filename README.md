@@ -13,7 +13,7 @@ ___
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gugalxp&layout=compact)]()
 ___
-## Tecnologias que eu uso nos meus dias
+## Tecnologias que eu uso nos meus dias 👇🏼
 ___
 
 <div style="display: inline_block;">
