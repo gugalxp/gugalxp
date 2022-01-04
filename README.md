@@ -1,4 +1,4 @@
- Olá! Eu sou o Gustavo Arruda 🖐️
+ Olá! Eu sou o Gustavo Arruda 🖐️ Olá! Eu sou o Gustavo Arruda 🖐️
 ___
 Atualmente cursando Ciência da Computação. E estagiário na Speedy Officer.
 ___
@@ -6,7 +6,7 @@ ___
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/sujeitoprogramador)
 
-[![Grupo](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](618937808941219840)
+[![Grupo](https://img.shields.io/badge/Discord-eee?style=for-the-badge&logo=discord&logoColor=black)]()
 
 
 ![Arruda GitHub stats](https://github-readme-stats.vercel.app/api?username=gugalxp&show_icons=true&theme=radical)
@@ -23,6 +23,17 @@ ___
   <img align="center" alt="ts" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
   <img align="center" alt="react" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
   <img align="center" alt="nodejs" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
+  
+   <img align="center" alt="php" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
+
+   <img align="center" alt="angular" src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
+
+   <img align="center" alt="bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/>
+
+   <img align="center" alt="mysql" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
+
+   <img align="center" alt="mysql" src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" />
+   
 </div><br/>
 
 Apaixonado por tecnologia, por programação e por desafios!
