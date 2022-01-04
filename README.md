@@ -2,7 +2,7 @@
 
 [![Blog](https://img.shields.io/website?label=gustavoarrudaprogramador.com&style=for-the-badge&url=https://sujeitoprogramador.com/)](https://gustavoarrudaprogramador.com)
 
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/sujeitoprogramador)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/soueugusta_/)
 
 
 ![Arruda GitHub stats](https://github-readme-stats.vercel.app/api?username=gugalxp&show_icons=true&theme=dracula&count_private=true)
