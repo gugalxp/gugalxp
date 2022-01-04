@@ -1,6 +1,5 @@
  # <strong> Olá! Eu sou o Gustavo Arruda 🖐️
  </strong>
-___
 </br>
 
 [![Instagram](https://img.shields.io/badge/Instagram-red?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/sujeitoprogramador)
