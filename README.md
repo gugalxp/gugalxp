@@ -41,7 +41,7 @@ ___
 </div><br/>
 <style>
     img{
-        padding: 20px
+        padding: 30px;
     }
 </style>
 
