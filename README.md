@@ -6,8 +6,6 @@ ___
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/sujeitoprogramador)
 
-[![Grupo](https://img.shields.io/badge/Discord-eee?style=for-the-badge&logo=discord&logoColor=black)]()
-
 
 ![Arruda GitHub stats](https://github-readme-stats.vercel.app/api?username=gugalxp&show_icons=true&theme=radical)
 
