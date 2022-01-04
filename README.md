@@ -1,10 +1,10 @@
- # <strong> Olá! Eu sou o Gustavo Arruda 🖐️
+ ## <strong> Olá! Eu sou o Gustavo Arruda 🖐️
  </strong>
 
 [![Instagram](https://img.shields.io/badge/Instagram-red?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/sujeitoprogramador)
 [![Contato](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=5513996369053&text=Ol%C3%A1%2C%20gostaria%20de%20te%20contratar..%20Entre%20em%20contato%20comigo!)
 
-### <strong style="color:yellow;">Atualmente cursando Ciência da Computação.  Estagiário na Speedy Officer!</strong>
+#### <strong style="color:yellow;">Atualmente cursando Ciência da Computação.  Estagiário na Speedy Officer!</strong>
 
 ___
 
