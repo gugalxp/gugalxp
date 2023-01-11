@@ -31,13 +31,12 @@
 &nbsp;
    <img align="center" style="margin: 5px" alt="mysql" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
 &nbsp;
-   <img align="center" alt="mysql" style="margin: 8px" src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" />
+   <img align="center" alt="mysql" style="margin: 10px" src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" />
    
 </div><br/>
 
 ___
 
 ### <strong><div align="center">Apaixonado por tecnologia, por programação e por desafios!</div>
-</strong>
-
    <img align="center" alt="mysql" style="margin: 5px" src="https://i.pinimg.com/originals/18/a4/94/18a4949fc9c8067172d3b96e302e7097.gif" />
+</strong>
