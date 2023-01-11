@@ -31,7 +31,7 @@
 &nbsp;
    <img align="center" style="margin: 5px" alt="mysql" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
 &nbsp;
-   <img align="center" alt="mysql" style="margin: 5px" src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" />
+   <img align="center" alt="mysql" style="margin: 8px" src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" />
    
 </div><br/>
 
