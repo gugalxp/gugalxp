@@ -14,7 +14,6 @@ ___
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gugalxp&layout=compact)]()
 
-![Snake animation](https://github.com/gugalxp/gugalxp/blob/output/github-contribution-grid-snake.svg)
 
 
 ## Tecnologias que eu uso nos meus dias 👇
@@ -45,3 +44,5 @@ ___
 
 ### Apaixonado por tecnologia, por programação e por desafios!
 
+
+![Snake animation](https://github.com/gugalxp/gugalxp/blob/output/github-contribution-grid-snake.svg)
