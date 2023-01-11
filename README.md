@@ -1,21 +1,26 @@
- ## <strong> Olá! Eu sou o Gustavo Arruda 🖐️
+ ## <strong style="yellow;"> Olá! Eu sou o Gustavo Arruda 🖐️
  </strong>
 
-[![Instagram](https://img.shields.io/badge/Instagram-red?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/sujeitoprogramador)
 [![Contato](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=5513996369053&text=Ol%C3%A1%2C%20gostaria%20de%20te%20contratar..%20Entre%20em%20contato%20comigo!)
+<a href="https://www.linkedin.com/in/gustavo-arruda-2a664a1b1/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
+[![Instagram](https://img.shields.io/badge/Instagram-red?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/sujeitoprogramador)
+
+
 
 #### <strong style="color:yellow;">Formado em Ciência da Computação.</strong>
 
 ___
-
 ![Arruda GitHub stats](https://github-readme-stats.vercel.app/api?username=gugalxp&show_icons=true&theme=radical)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gugalxp&layout=compact)]()
-## Tecnologias que eu uso nos meus dias 👇
 
+![Snake animation](https://github.com/gugalxp/gugalxp/blob/output/github-contribution-grid-snake.svg)
+
+
+## Tecnologias que eu uso nos meus dias 👇
 ___
 
-<div style="display: inline_block;">
+<div style="display: flex;">
   <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
 &nbsp;
   <img align="center" alt="css" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
