@@ -1,26 +1,40 @@
-<div style="display: flex; align-items: center; justify-content: center;">
-<div>
- <strong style="font-size: 22px"> Olá! Eu sou o Gustavo 🖐️</strong></br><strong style="font-size: 16px; font-family: monospace;">Formado em Ciência da Computação.</strong>
- </div>
- 
- <img align="center" alt="mysql" style="margin: 5px; width: 400px;" src="https://i.pinimg.com/originals/18/a4/94/18a4949fc9c8067172d3b96e302e7097.gif" />
-</div>
+  
+ <h1 align="center">Olá! Eu sou o Gustavo 🖐️</h1>
 
-___
+ <img align="right" width="350" src="https://i.pinimg.com/originals/18/a4/94/18a4949fc9c8067172d3b96e302e7097.gif" />
 
 
 ## ```Principais Skills``` 👇
 
 <div align="left">
 
-- [x] ReactJS
+- [x] TypeScript
+- [x] ReactJS -- (Conhecimento na aplicação de diversas bibliotecas)
 - [x] NodeJs
 - [x] PostgreSQL
-   
+- [x] jQuery
+
 </div>
 
+## ```Ferramentas, Bibliotecas e Padrões``` 👇
 
-___
+<div align="left">
+
+- [x] Nodemon
+- [x] Bekeeper Studio
+- [x] JWT (JSON WEB TOKEN)
+- [x] Insomnia/Postman
+- [x] Postbird
+- [x] Core
+- [x] ORM Prisma
+- [x] MVC
+- [x] S.O.L.I.D
+- [x] YARN/NPM
+- [x] Bcryptjs
+- [x] Express
+- [x] Express async errors
+
+</div>
 
 ## ```Contato``` 👇
 
@@ -34,18 +48,10 @@ ___
 
 </div>
 
+</br></br>
 ___
 
-</br>
 
-## ```Alguns dados do perfil:``` 👇
-</br>
-
-![Arruda GitHub stats](https://github-readme-stats.vercel.app/api?username=gugalxp&show_icons=true&theme=radical)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gugalxp&layout=compact)]()
-
-___
 
 
   
