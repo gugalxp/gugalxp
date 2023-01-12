@@ -23,9 +23,15 @@ ___
 
 </br>
 
+<div align="center">
+
 [![Contato](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=5513996369053&text=Ol%C3%A1%2C%20gostaria%20de%20te%20contratar..%20Entre%20em%20contato%20comigo!)
 <a href="https://www.linkedin.com/in/gustavo-arruda-2a664a1b1/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
-[![Instagram](https://img.shields.io/badge/Instagram-red?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/sujeitoprogramador)
+<a href = "mailto:gustavoleone3456@hotmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+
+</div>
+
+___
 
 </br>
 
