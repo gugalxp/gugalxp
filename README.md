@@ -11,7 +11,9 @@
 - [x] TypeScript
 - [x] ReactJS -- (Conhecimento na aplicação de diversas bibliotecas e fácil aprendizado das mesmas.)
 - [x] NodeJs
+- [x] SQL Server
 - [x] PostgreSQL
+- [x] Firebase
 - [x] jQuery
 
 </div>
@@ -20,6 +22,7 @@
 
 <div align="left">
 
+- [x] SQL/NO SQL
 - [x] Nodemon
 - [x] Bekeeper Studio
 - [x] JWT (JSON WEB TOKEN)
