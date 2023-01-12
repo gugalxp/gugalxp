@@ -2,8 +2,8 @@
 <div>
  <strong style="font-size: 22px"> Olá! Eu sou o Gustavo 🖐️</strong></br><strong style="font-size: 16px; font-family: monospace;">Formado em Ciência da Computação.</strong>
  </div>
- |
- <img align="center" alt="mysql" style="margin: 5px; width: 300px;" src="https://i.pinimg.com/originals/18/a4/94/18a4949fc9c8067172d3b96e302e7097.gif" />
+ 
+ <img align="center" alt="mysql" style="margin: 5px; width: 400px;" src="https://i.pinimg.com/originals/18/a4/94/18a4949fc9c8067172d3b96e302e7097.gif" />
 </div>
 
 ___
