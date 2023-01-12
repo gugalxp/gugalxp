@@ -30,6 +30,9 @@ ___
 </br>
 
 
+## ```Alguns dados do perfil:``` 👇
+</br>
+
 ![Arruda GitHub stats](https://github-readme-stats.vercel.app/api?username=gugalxp&show_icons=true&theme=radical)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gugalxp&layout=compact)]()
