@@ -9,7 +9,7 @@
 <div align="left">
 
 - [x] TypeScript
-- [x] ReactJS -- (Conhecimento na aplicação de diversas bibliotecas)
+- [x] ReactJS -- (Conhecimento na aplicação de diversas bibliotecas e fácil aprendizado das mesmas.)
 - [x] NodeJs
 - [x] PostgreSQL
 - [x] jQuery
