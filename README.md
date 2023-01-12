@@ -1,6 +1,6 @@
-<div align="center">
-# <strong style="yellow;"> Olá! Eu sou o Gustavo 🖐️ </br><strong style="font-size: 16px; font-family: monospace;">Formado em Ciência da Computação.</strong>
- </strong>
+<div align="center" style="display: flex; align-items: center;">
+ <strong style="font-size: 22px"> Olá! Eu sou o Gustavo 🖐️ </br><strong style="font-size: 16px; font-family: monospace;">Formado em Ciência da Computação.</strong>
+ </strong> <img align="center" alt="mysql" style="margin: 5px; width: 300px;" src="https://i.pinimg.com/originals/18/a4/94/18a4949fc9c8067172d3b96e302e7097.gif" />
 </div>
 
 ___
@@ -23,7 +23,7 @@ ___
 
 </br>
 
-<div align="center">
+<div align="left">
 
 [![Contato](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=5513996369053&text=Ol%C3%A1%2C%20gostaria%20de%20te%20contratar..%20Entre%20em%20contato%20comigo!)
 <a href="https://www.linkedin.com/in/gustavo-arruda-2a664a1b1/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
@@ -35,7 +35,6 @@ ___
 
 </br>
 
-
 ## ```Alguns dados do perfil:``` 👇
 </br>
 
@@ -45,6 +44,6 @@ ___
 
 ___
 
-### <strong><div align="center">Apaixonado por tecnologia, por programação e por desafios!</div>
-   <img align="center" alt="mysql" style="margin: 5px" src="https://i.pinimg.com/originals/18/a4/94/18a4949fc9c8067172d3b96e302e7097.gif" />
-</strong>
+
+  
+
