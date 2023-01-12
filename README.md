@@ -12,6 +12,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gugalxp&layout=compact)]()
 
-### <strong><div align="center">Apaixonado por tecnologia, por programação e por desafios!</div>
+### <strong><div align="center">Apaixonado por tecnologia, por programação e por desafios!
    <img align="center" alt="mysql" style="margin: 5px" src="https://i.pinimg.com/originals/18/a4/94/18a4949fc9c8067172d3b96e302e7097.gif" />
+ </div>
 </strong>
