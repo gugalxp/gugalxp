@@ -36,7 +36,9 @@
 - [x] Bcryptjs
 - [x] Express
 - [x] Express async errors
-
+- [x] Melhores práticas de CI/CD
+- [x] Conhecimentos UX/UI
+  
 </div>
 
 ## ```Contato``` 👇
