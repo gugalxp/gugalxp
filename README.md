@@ -4,6 +4,7 @@
 
   ## 📄 Experiência: Explore o código no perfil. <br>
   <br>
+  
 - [x] Sistema front end barbearia <br>
 - [x] Sistema back-end de uma barbearia com diferentes tipos de planos <br>
 - [x] Lading Pages<br>
@@ -12,6 +13,7 @@
 - [x] Sistema web de gerenciamento de estados onde eu posso gerenciar estados de envio ou recebimento de produto a empresas.<br>
 - [x] Muitos recursos e bibliotecas do ReactJS<br>
 - [x] [Entre outros diversos](https://github.com/gugalxp?tab=repositories)  
+
 <br></div>
 
 ## 🌐 Mídias
