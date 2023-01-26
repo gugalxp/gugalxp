@@ -2,8 +2,7 @@
 <img align="right" style="margin: 60px" width="450" src="https://i.pinimg.com/originals/18/a4/94/18a4949fc9c8067172d3b96e302e7097.gif" />
 <div align="left" width="300">🔭 Atualmente trabalhando com freelancer, projetos pessoais, e ajudando no desenvolvimento de projeto de amigos;<br>🌱 Estou aprendendo atualmente com NextJS;<br>💬 Pergunte-me sobre conhecimento técnico, valores e metas;<br>⚡ Formação acadêmica: Formado em Ciências da Computação; <br>
 
-  ## 📄 Experiência: Explore o código no perfil. <br>
-  <br>
+  #### 📄 Experiência: Explore o código no perfil. <br>
   
 - [x] Sistema front end barbearia <br>
 - [x] Sistema back-end de uma barbearia com diferentes tipos de planos <br>
@@ -14,7 +13,7 @@
 - [x] Muitos recursos e bibliotecas do ReactJS<br>
 - [x] [Entre outros diversos](https://github.com/gugalxp?tab=repositories)  
 
-<br></div>
+</div>
 
 ## 🌐 Mídias
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/soueugusta_/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/gustavo-arruda-2a664a1b1/) 
