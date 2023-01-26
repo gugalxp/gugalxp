@@ -1,6 +1,6 @@
 # 👤 Perfil
 <img align="right" width="450" src="https://i.pinimg.com/originals/18/a4/94/18a4949fc9c8067172d3b96e302e7097.gif" />
-<div align="left" width="350">🔭 Atualmente trabalhando com freelancer, projetos pessoais, e ajudando no desenvolvimento de projeto de amigos.<br>🌱 Estou aprendendo atualmente com NextJS<br>💬 Pergunte-me sobre conhecimento técnico, valores e metas.<br>⚡ Formação acadêmica: Formado em Ciências da Computação;<br><br></div>
+<div align="left" width="350">🔭 Atualmente trabalhando com freelancer, projetos pessoais, e ajudando no desenvolvimento de projeto de amigos;<br>🌱 Estou aprendendo atualmente com NextJS;<br>💬 Pergunte-me sobre conhecimento técnico, valores e metas;<br>⚡ Formação acadêmica: Formado em Ciências da Computação;<br><br></div>
 
 <br><br><br><br><br><br><br>
 
