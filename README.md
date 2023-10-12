@@ -26,6 +26,9 @@
 
 <div align="left">
 
+- [x] Kafka
+- [x] Docker
+- [x] Microsserviços
 - [x] SQL/NO SQL
 - [x] Nodemon
 - [x] Bekeeper Studio
